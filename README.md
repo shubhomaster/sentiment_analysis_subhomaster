@@ -1,1 +1,2 @@
-# sentiment_analysis_subhomaster
+# movie-sentiment-analysis
+Movie sentiment analysis
